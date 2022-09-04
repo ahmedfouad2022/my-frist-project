@@ -1,0 +1,60 @@
+    * {
+        margin: 0;
+        text-align: center;
+    }
+    
+    header,
+    footer {
+        background-color: aqua;
+        border-radius: 10px;
+        padding: 10px;
+        /* width: 100%; */
+        /* height: 200px; */
+        opacity: .8;
+    }
+    
+    .x {
+        width: 90%;
+    }
+    
+    aside {
+        height: 500px;
+        width: 30%;
+        background-color: brown;
+    }
+    
+    .con {
+        border: 1px solid green;
+        width: 70%;
+        height: 500px;
+    }
+    
+    .papa {
+        display: flex;
+    }
+    
+    main {
+        width: 100%;
+        background-color: blue;
+        height: 25%;
+    }
+    
+    section {
+        background-color: yellow;
+        height: 37.5%;
+    }
+    
+    .logo {
+        background-color: green;
+        width: 50%;
+        height: 100%
+    }
+    
+    .gogo {
+        height: 37.5%;
+        display: flex;
+    }
+    
+    .n {
+        width: 100%;
+    }
